@@ -10,7 +10,8 @@ void doSomethingAtRemote() {
 }
 
 void emptyFunctionStub() {
-
+	// Empty Function
+	// Something is Empty
 }
 
 int main() {
