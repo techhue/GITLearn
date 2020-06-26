@@ -9,7 +9,7 @@ void doSomethingAtRemote() {
 	printf("Ding Dong....");
 }
 
-void someUselessFunction() {
+void emptyFunctionStub() {
 
 }
 
