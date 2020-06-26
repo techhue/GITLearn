@@ -13,3 +13,10 @@ int main() {
 	hello();
 }
 
+void doThingsYouLike() {
+	prinf("Like The World...");
+	prinf("Like The World...");
+	prinf("Like The World...");
+	prinf("Like The World...");
+	prinf("Like The World...");
+}
