@@ -9,6 +9,10 @@ void doSomethingAtRemote() {
 	printf("Ding Dong....");
 }
 
+void someUselessFunction() {
+
+}
+
 int main() {
 	hello();
 }
