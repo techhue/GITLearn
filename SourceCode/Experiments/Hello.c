@@ -10,8 +10,9 @@ void doSomethingAtRemote() {
 }
 
 void emptyFunctionStub() {
-	// Empty Function
 	// Something is Empty
+	// World is Shallow!
+	// Things Are Boring...
 }
 
 int main() {
